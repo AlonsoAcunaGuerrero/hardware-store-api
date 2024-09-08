@@ -1,0 +1,2 @@
+GET https://localhost:7042/api/countries
+Content-Type: application/json
